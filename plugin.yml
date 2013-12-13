@@ -1,4 +1,4 @@
 name: NoMobTarget
-main: io.github.pblolpb.nomobtarget.NoMobTarget
+main: com.github.pblolpb.nomobtarget.NoMobTarget
 version: 1
 author: Pblolpb
